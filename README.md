@@ -8,4 +8,4 @@ Descripción : Lectura de distancia en un LCD mediante un ultrasonidos en Arduin
 Requisitos  : WOKWI, Arduino, BreadBoard, Ultrasonidos, LCD
 Tiempo      : 8 horas
 ```
-  > Enlaces de interés: [**Project**](https://wokwi.com/projects/390518841931996161)
+  > Enlaces de interés: [**Project**](https://wokwi.com/projects/391612242616494081)
